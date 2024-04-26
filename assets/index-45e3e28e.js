@@ -1,0 +1,1 @@
+import{a as r,j as o}from"./index-79da42ee.js";import{C as s,R as e,a as i}from"./Row-72e92c49.js";const n=a=>r("div",{className:"footer",children:r(s,{children:r(e,{children:r(i,{lg:"12",children:r("p",{children:"Copyright © 2023 The Original Knit."})})})})}),c=({children:a})=>o("div",{className:"wrapper",children:[a,r(n,{})]});export{c as W};
